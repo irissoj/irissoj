@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @irissoj
-- 🌱 I’m currently learning frontend development
+- 🌱 I’m currently learning web development
   
 
 <!---
