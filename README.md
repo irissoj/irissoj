@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @irissoj
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently a product executive
   
 
 <!---
